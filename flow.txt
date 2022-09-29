@@ -1,6 +1,27 @@
 1. github signup
+
 2. create new repository
+
 3. clone repository
+
 4. git commit --allow-empty -m "first commit"
+
 5. git checkout -b implement-app-base
-6. 
+
+6. create base html
+
+7. git add * 
+
+8. git commit -m "app base completed"
+
+9. git push origin implement-base-app
+
+10. pull request on github
+
+11. review myself
+
+12. merge and ok
+
+13. delete branch
+
+14. 
