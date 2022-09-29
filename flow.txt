@@ -1,0 +1,6 @@
+1. github signup
+2. create new repository
+3. clone repository
+4. git commit --allow-empty -m "first commit"
+5. git checkout -b implement-app-base
+6. 
