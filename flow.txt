@@ -1,6 +1,49 @@
 1. github signup
+
 2. create new repository
+
 3. clone repository
+
 4. git commit --allow-empty -m "first commit"
+
 5. git checkout -b implement-app-base
-6. 
+
+6. index.html create
+
+7. git add * , git commit -m "completed app-base", git push origin implement-app-base
+
+8. pull request on github
+
+9. review
+
+10. merge and delete blunch
+
+11. git checkout main 
+
+12. git branch -D implement-app-base
+
+13. git pull origin main 
+
+14. git checkout -b implement-add-todo
+
+15. app.js create
+
+16. git add * , git commit -m "add function todo-add", git push origin implement-add-todo
+
+17. pull request , review, and merge, delete branch
+
+18. git checkout -b implement-done-todo
+
+19. app.js modified 
+
+20. git add * ~~~
+
+21. pull request, but denied. modified required
+
+22. app.js color change 
+
+23. git add * ~~~ 
+
+24. auto pull request updated, review and merge
+
+25. git checkout master, git branch -D implement-done-todo,  git pull origin master
