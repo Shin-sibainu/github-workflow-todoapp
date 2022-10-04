@@ -4,7 +4,7 @@
 
 3. clone repository
 
-4. git commit --allow-empty -m "first commit"
+4. git commit --allow-empty -m "first commit", git push origin main
 
 5. git checkout -b implement-app-base
 
